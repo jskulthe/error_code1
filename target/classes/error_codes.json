@@ -1,0 +1,16 @@
+{
+	"UNKNOWN_HOST": {
+		"Description": "Unsble toconnect Host",
+		"Recoverable": false,
+		"source": "DAC service",
+		"ResonCode": "UNKNOWN_HOST"
+	},
+
+	"DATA_NOT_FOUND": {
+		"Description": "Unsble toconnect Host",
+		"Recoverable": false,
+		"source": "DAC service",
+		"ResonCode": "DATA_NOT_FOUND"
+	}
+
+}
